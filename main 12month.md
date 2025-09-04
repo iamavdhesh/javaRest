@@ -1,4 +1,4 @@
----
+
 
 ## 🔹 Phase 1 (Months 1–3): Strengthen Foundations
 **Goal:** Solidify core Java + Spring Boot, restart DSA, build coding discipline.  
@@ -15,7 +15,6 @@
 - Finish 100 LeetCode problems  
 - Build 1 REST API mini-project  
 
----
 
 ## 🔹 Phase 2 (Months 4–6): First Switch Preparation
 **Goal:** Gain in-demand skills, target companies paying 40–45 LPA.  
