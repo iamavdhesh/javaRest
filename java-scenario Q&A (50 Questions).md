@@ -3,7 +3,7 @@
 A complete practice handbook for senior Java / Tech Lead roles.  
 Covers **real-world scenarios**: coding, architecture, microservices, system design, leadership.
 
----
+
 
 ## 🔹 Core Java & Concurrency
 
@@ -11,7 +11,6 @@ Covers **real-world scenarios**: coding, architecture, microservices, system des
 **Q:** Your Java microservice slows under high concurrent load. How do you identify bottlenecks and scale?  
 **A:** Profile (JProfiler, VisualVM), optimize code (connection pooling, caching), async programming, horizontal scaling (K8s), Resilience4j circuit breakers.
 
----
 
 ### 2. Preventing Memory Leaks
 **Q:** You see `OutOfMemoryError` in prod. How do you debug & prevent leaks?  
