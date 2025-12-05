@@ -1,5 +1,4 @@
-Sure Avdhesh — here is the full MD (Markdown) file you can directly copy into a .md file.
-No extra formatting, clean and ready to use.
+
 
 
 ---
@@ -490,10 +489,3 @@ Use Redis caching, replication, sharding.
 
 ---
 
-If you want, I can also generate:
-
-✅ A PDF version
-✅ A cheat-sheet one-pager
-✅ A full mock interview based on these questions
-
-Just tell me!
