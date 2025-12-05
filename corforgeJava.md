@@ -3,9 +3,9 @@
 
 ---
 
-Coforge Java Interview Questions & Answers (Experienced Developer)
+# Coforge Java Interview Questions & Answers (Experienced Developer)
 
-1. Core Java (OOP, Language Basics)
+## 1. Core Java (OOP, Language Basics)
 
 1. Difference between interface and abstract class
 
@@ -135,7 +135,7 @@ Use defensive copies
 
 ---
 
-2. Collections & Java 8
+## 2. Collections & Java 8
 
 11. ArrayList vs LinkedList
 
@@ -240,7 +240,7 @@ Use only for CPU-heavy, stateless, large datasets.
 
 ---
 
-3. Concurrency & JVM
+## 3. Concurrency & JVM
 
 21. synchronized vs Lock
 
@@ -303,7 +303,7 @@ Heap → objects, shared between threads
 
 ---
 
-4. Spring & Spring Boot
+## 4. Spring & Spring Boot
 
 28. What is Dependency Injection?
 
@@ -384,7 +384,7 @@ Use Spring Security + JWT + filters + CORS config.
 
 ---
 
-5. JPA / Hibernate
+## 5. JPA / Hibernate
 
 36. findById vs getReferenceById
 
@@ -437,7 +437,7 @@ Use Saga Pattern, Outbox, event-driven design.
 
 ---
 
-6. Microservices & System Design
+## 6. Microservices & System Design
 
 41. Monolith vs Microservices
 
