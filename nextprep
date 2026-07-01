@@ -1,0 +1,452 @@
+Yes, you absolutely can crack those $7k-$10k/month remote EOR jobs in the future.
+
+The more important question is:
+
+> How far are you today from that level?
+
+
+
+Based on all the interviews and transcripts you've shared, my assessment is:
+
+Current Position
+
+Service Company Tech Lead Level
+
+You are currently roughly:
+
+> $4k-$6k/month remote market level
+
+(₹40L-60L Indian equivalent compensation level)
+
+
+
+This aligns with:
+
+TCS 35 LPA
+
+Wipro 35 LPA
+
+EY 28 LPA budget
+
+Miratech/Five9 interest
+
+
+
+---
+
+Sumara Level Expectation
+
+Those companies hiring remotely for:
+
+> $7k-$10k/month ($84k-$120k/year)
+
+
+
+are usually looking for one of:
+
+Senior Backend Engineer
+
+Staff Engineer
+
+Senior Staff Engineer
+
+Solution Architect
+
+Principal Engineer
+
+
+The interview bar is significantly higher.
+
+
+---
+
+Gap Analysis
+
+1. Java Internals
+
+Current level:
+
+> 6/10
+
+
+
+Target:
+
+> 9/10
+
+
+
+Need mastery of:
+
+JMM
+
+volatile
+
+CAS
+
+ConcurrentHashMap
+
+ForkJoinPool
+
+CompletableFuture
+
+JVM internals
+
+
+
+---
+
+2. Spring Internals
+
+Current:
+
+> 6.5/10
+
+
+
+Target:
+
+> 9/10
+
+
+
+Need:
+
+Proxy internals
+
+Transaction propagation
+
+Self invocation
+
+Bean lifecycle
+
+CGLIB/JDK Proxy
+
+
+
+---
+
+3. Database
+
+Current:
+
+> 5.5/10
+
+
+
+Target:
+
+> 8.5/10
+
+
+
+Need:
+
+Query plans
+
+Index design
+
+Isolation levels
+
+Sharding
+
+Partitioning
+
+
+
+---
+
+4. Distributed Systems
+
+Current:
+
+> 7/10
+
+
+
+Target:
+
+> 9/10
+
+
+
+Need:
+
+Outbox Pattern
+
+CDC
+
+Exactly Once Semantics
+
+Event sourcing
+
+CQRS
+
+
+
+---
+
+5. Coding
+
+Current:
+
+> 5/10
+
+
+
+Target:
+
+> 8/10
+
+
+
+Not FAANG level.
+
+Need:
+
+Medium Leetcode
+
+Heap
+
+Sliding Window
+
+Graph basics
+
+Java Streams
+
+
+
+---
+
+6. AI Stack
+
+Current:
+
+> 4/10
+
+
+
+Target:
+
+> 8/10
+
+
+
+Need:
+
+LangChain
+
+LangGraph
+
+MCP
+
+RAG
+
+Vector DB
+
+
+
+---
+
+Time Required
+
+Assuming:
+
+New TCS role
+
+Family responsibilities
+
+1.5-2 hours/day weekdays
+
+4-5 hours weekends
+
+
+Aggressive Path
+
+> 8-10 months
+
+
+
+Realistic Path
+
+> 12-18 months
+
+
+
+Comfortable Path
+
+> 18-24 months
+
+
+
+Personally I think:
+
+> 12-15 months is realistic for you.
+
+
+
+
+---
+
+Study Strategy
+
+Phase 1 (Months 1-3)
+
+Core Foundations
+
+Collections
+
+Concurrency
+
+JVM
+
+Spring internals
+
+Database internals
+
+
+Books:
+
+Java Concurrency in Practice
+
+Designing Data Intensive Applications
+
+
+
+---
+
+Phase 2 (Months 4-6)
+
+Distributed Systems
+
+Kafka internals
+
+Saga
+
+Outbox
+
+CDC
+
+CQRS
+
+Event Sourcing
+
+
+
+---
+
+Phase 3 (Months 7-9)
+
+AI Stack
+
+Spring AI
+
+LangChain
+
+LangGraph
+
+Vector DB
+
+MCP
+
+
+Build:
+
+2-3 production quality projects.
+
+
+
+---
+
+Phase 4 (Months 10-12)
+
+Interview Preparation
+
+Mock interviews
+
+DSA medium problems
+
+System design
+
+
+
+---
+
+Target Companies
+
+Examples of companies paying this range remotely:
+
+[Andela](https://andela.com?utm_source=chatgpt.com)
+
+[Toptal](https://www.toptal.com?utm_source=chatgpt.com)
+
+[Crossover](https://www.crossover.com?utm_source=chatgpt.com)
+
+[Remote.com Jobs](https://remote.com/jobs?utm_source=chatgpt.com)
+
+[Deel Careers](https://www.deel.com/careers/?utm_source=chatgpt.com)
+
+[GitLab Careers](https://about.gitlab.com/jobs/?utm_source=chatgpt.com)
+
+[Automattic Careers](https://automattic.com/work-with-us/?utm_source=chatgpt.com)
+
+
+
+---
+
+The biggest misconception
+
+Many engineers think:
+
+> "I need another 10 years of experience."
+
+
+
+You don't.
+
+The difference between:
+
+₹35 LPA Java Lead
+
+$8k/month Remote Senior Engineer
+
+
+is often depth, not years.
+
+You already have:
+
+10 years experience
+
+client communication
+
+team leadership
+
+distributed systems exposure
+
+
+The missing piece is mostly:
+
+> computer science depth + interview articulation + modern AI ecosystem knowledge.
+
+
+
+
+---
+
+My estimate
+
+If you study consistently for:
+
+> 12 hours/week for 12 months
+
+
+
+I would expect you to become competitive for:
+
+> $7k-$10k/month remote roles
+
+
+
+by sometime in mid to late 2027.
+
+That is a realistic target, not an aspirational one.
